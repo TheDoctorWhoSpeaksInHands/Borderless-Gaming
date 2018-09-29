@@ -1,4 +1,5 @@
-# [Buy it on Steam!](http://store.steampowered.com/app/388080)
+# The original creator of this software decided to remove the executable from GH and require those who cannot compile it to PAY for it through Steam. I have gone through the trouble of compiling it for you and you can download the executable here. This is supported by the GPL 2.0 the original source was released under. While I would like to support the developer, the decision to release a program halfway under open source is a bit of a crappy move on the original dev's part, so here you are: 
+## DOWNLOAD HERE: https://github.com/awurts/Borderless-Gaming/blob/master/BorderlessGaming9.5.4_admin_setup.exe
 
 # What is this?
 
@@ -16,8 +17,8 @@ The project is open source under the [GNU General Public License v2.0](https://g
 
 ## How to install and run Borderless-Gaming
 
-#### Buy through Steam and run it
-[Can be purchased here](http://store.steampowered.com/app/388080).
+
+
 
 #### Install from Source
 
